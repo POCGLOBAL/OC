@@ -1,6 +1,6 @@
 # OC62NUX
-   
-![Gravatar](https://www.gravatar.com/avatar/3ccd477d33e9477230a3b460e1f026e43b95051d740d96e2c190191154dd1fb1.jpg?s=128)Name: Ibnu Maksum   
+![Gravatar](https://www.gravatar.com/avatar/3ccd477d33e9477230a3b460e1f026e43b95051d740d96e2c190191154dd1fb1.jpg?s=128)   
+Name: Ibnu Maksum   
 Country: Indonesia   
 Region: Banten   
 Code: 62   
